@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MicroservicesWebApi\\ShippingServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\shippingservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\shippingservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\migrations\\20250705051441_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\migrations\\20250705051441_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\controllers\\shippingservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\controllers\\shippingservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\model\\shippingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\model\\shippingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\shippingservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\shippingservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|d:\\microserviceswebapi\\shippingservices\\shippingservices\\migrations\\20250707104755_secondmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F30AD97-8DDD-47D8-ABF5-0927F8FEC53D}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\migrations\\20250707104755_secondmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShippingServices.http",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\ShippingServices.http",
+              "RelativeDocumentMoniker": "ShippingServices\\ShippingServices.http",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\ShippingServices.http",
+              "RelativeToolTip": "ShippingServices\\ShippingServices.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-31T10:12:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250705051441_InitialMigrate.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Migrations\\20250705051441_InitialMigrate.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Migrations\\20250705051441_InitialMigrate.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Migrations\\20250705051441_InitialMigrate.cs",
+              "RelativeToolTip": "ShippingServices\\Migrations\\20250705051441_InitialMigrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:14:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Program.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Program.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Program.cs",
+              "RelativeToolTip": "ShippingServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:03:17.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\appsettings.json",
+              "RelativeDocumentMoniker": "ShippingServices\\appsettings.json",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\appsettings.json",
+              "RelativeToolTip": "ShippingServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T05:02:07.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingServiceController.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Controllers\\ShippingServiceController.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Controllers\\ShippingServiceController.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Controllers\\ShippingServiceController.cs",
+              "RelativeToolTip": "ShippingServices\\Controllers\\ShippingServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:40:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "ShippingServices\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:29:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippingItem.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Model\\ShippingItem.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Model\\ShippingItem.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Model\\ShippingItem.cs",
+              "RelativeToolTip": "ShippingServices\\Model\\ShippingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:25:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250707104755_SecondMigrate.cs",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Migrations\\20250707104755_SecondMigrate.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Migrations\\20250707104755_SecondMigrate.cs",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\Migrations\\20250707104755_SecondMigrate.cs",
+              "RelativeToolTip": "ShippingServices\\Migrations\\20250707104755_SecondMigrate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:47:55.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShippingServices.csproj",
+              "DocumentMoniker": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\ShippingServices.csproj",
+              "RelativeDocumentMoniker": "ShippingServices\\ShippingServices.csproj",
+              "ToolTip": "D:\\MicroservicesWebApi\\ShippingServices\\ShippingServices\\ShippingServices.csproj",
+              "RelativeToolTip": "ShippingServices\\ShippingServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T04:22:54.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
